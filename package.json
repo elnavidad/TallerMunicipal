@@ -22,7 +22,7 @@
     },
     "dependencies": {
         "hasher": "^1.2.0",
-        "jquery-ui": "^1.12.1",
+        "jquery-ui": "^1.13.2",
         "nestedSortable": "^1.3.4",
         "politespace": "^1.0.2",
         "route-recognizer": "^0.3.4",
